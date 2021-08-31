@@ -1,6 +1,6 @@
-# skeleton-generic #
+# skeleton-typescript #
 
-[![GitHub Build Status](https://github.com/cisagov/skeleton-generic/workflows/build/badge.svg)](https://github.com/cisagov/skeleton-generic/actions)
+[![GitHub Build Status](https://github.com/cisagov/skeleton-typescript/workflows/build/badge.svg)](https://github.com/cisagov/skeleton-typescript/actions)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) GitHub project started.
